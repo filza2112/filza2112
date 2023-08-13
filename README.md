@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @filza2112
-- 👀 I’m interested in open source and cp
+- 👀 I’m interested in open source
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking forward for to contribute in Open source.
 - Contact- filza.official2112@gmail.com
