@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @filza2112
-- 👀 I’m interested in open source
-- 🌱 I’m currently learning C++
+- 👀 I’m a Frontend Developer
+- 🌱 I’m currently Practice DSA in C++
 - 💞️ I’m looking forward for to contribute in Open source.
 - Contact- filza.official2112@gmail.com
 <!---
