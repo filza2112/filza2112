@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @filza2112
 - 👀 I’m a Frontend Developer
-- 🌱 I’m currently Practice DSA in C++
+- 🌱 I’m currently Practicing DSA in C++
 - 💞️ I’m looking forward for to contribute in Open source.
 - Contact- filza.official2112@gmail.com
 <!---
