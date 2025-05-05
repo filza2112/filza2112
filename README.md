@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @filza2112
 - 👀 I’m a Web Developer
-- 🌱 I’m currently Practicing DSA in C++
+- 🌱 I’m currently an undergrad majoring in computer science
 - 💞️ I’m looking forward to contribute to Open source.
 - Contact - filza.official2112@gmail.com
 <!---
